@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "cli",
+    "common/types",
+    "api/bin/",
+    "api/lib/",
+]
